@@ -1,0 +1,14 @@
+attributes
+
+author (string)
+title (string)
+turnOn (boolean)
+totalNumberOfMinutes (float)
+
+
+methods
+
+turnOn (changes turnOn attribute to True)
+changeAuthor (changes author attribute)
+changeTitle (changes Title attribute)
+Play (changes the totalNumberOf Minutes attribute)
